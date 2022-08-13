@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3 - reactnative - nextjs - backEnd
 - ⚡ Fun fact: I love to draw and play guitar / cello
-
+ <br/>
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
