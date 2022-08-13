@@ -21,7 +21,7 @@
  <br/>
 
 Languages and Tools:
-[<a href="https://www.w3schools.com/html/default.asp"><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>][<a href="https://www.w3schools.com/html/default.asp"></a>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][<a href="https://www.w3schools.com/html/default.asp"></a>
 ]
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
