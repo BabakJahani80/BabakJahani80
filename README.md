@@ -1,6 +1,6 @@
 # Hi there, I'm Babak 👋 
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; background-color: rgb(94, 147, 194);">
   <p>
       <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front+end+developer;creative;hardworker;"></a>
   </p>
