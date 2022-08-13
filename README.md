@@ -1,7 +1,7 @@
 # Hi there, I'm Babak 👋 
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <p align="center">
+  <p>
       <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front+end+developer;creative;hardworker;"></a>
   </p>
 </div>
